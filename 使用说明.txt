@@ -1,4 +1,4 @@
-KeyGrid Rhythm · 九宫格数字键音游   v0.84
+KeyGrid Rhythm · 九宫格数字键音游   v0.85
 ==============================================
 
 1) 别把 KeyGrid Rhythm.exe 单独拷走 —— 它旁边的 KeyGrid Rhythm.pck 是它要的资源包，
